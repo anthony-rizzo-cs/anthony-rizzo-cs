@@ -25,7 +25,6 @@ Professional with 10+ years of experience specializing in Zero Trust environment
 ---
 
 ### 🚀 Projects & Focus
-* **R&R Security Partners L.L.C.:** Founder and principal focusing on security consulting and private infrastructure audits.
 * **Master's Research:** Currently pursuing MS at Georgia Tech with a focus on Information Security.
 * **AI Study Assistant:** Developing a Python-based chatbot to assist IT professionals with certification prep.
 
