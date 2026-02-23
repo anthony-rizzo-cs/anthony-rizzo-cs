@@ -21,6 +21,8 @@ Professional with 10+ years of experience specializing in Zero Trust environment
 **Certifications** ![CCNA](https://img.shields.io/badge/CCNA-Verified-blue)
 ![Security+](https://img.shields.io/badge/Security+-Verified-orange)
 ![Cybersecurity](https://img.shields.io/badge/Focus-Network_Security-green)
+![SecurityX](https://img.shields.io/badge/CompTIA-SecurityX-orange?style=for-the-badge&logo=comptia&logoColor=white)
+![Cisco SCOR](https://img.shields.io/badge/Cisco-SCOR_350--701-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
