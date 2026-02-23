@@ -2,7 +2,7 @@
 
 ### Network Security Engineer | MS Information Security @ Georgia Tech
 
-Professional with 10+ years of experience specializing in Zero Trust environments, NAC implementation, and security automation. Currently supporting NIWC and DHA at NexGen Data Systems.
+Professional with 10+ years of experience specializing in Zero Trust environments, NAC implementation, and security automation within enterprise and government-contracting sectors.
 
 ---
 
@@ -18,14 +18,14 @@ Professional with 10+ years of experience specializing in Zero Trust environment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**Current Certifications** ![CCNA](https://img.shields.io/badge/CCNA-Verified-blue)
+**Certifications** ![CCNA](https://img.shields.io/badge/CCNA-Verified-blue)
 ![Security+](https://img.shields.io/badge/Security+-Verified-orange)
-![Top Secret](https://img.shields.io/badge/Clearance-Top_Secret-black)
+![Cybersecurity](https://img.shields.io/badge/Focus-Network_Security-green)
 
 ---
 
 ### 🚀 Projects & Focus
-* **R&R Security Partners L.L.C.:** Founder and principal focusing on security consulting.
+* **R&R Security Partners L.L.C.:** Founder and principal focusing on security consulting and private infrastructure audits.
 * **Master's Research:** Currently pursuing MS at Georgia Tech with a focus on Information Security.
 * **AI Study Assistant:** Developing a Python-based chatbot to assist IT professionals with certification prep.
 
@@ -33,4 +33,3 @@ Professional with 10+ years of experience specializing in Zero Trust environment
 
 ### 📫 Connect with me
 * [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-URL)
-* [Personal Website](https://YOUR-WEBSITE.com)
