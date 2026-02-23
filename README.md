@@ -2,7 +2,12 @@
 
 ### Network Security Engineer | MS Information Security @ Georgia Tech
 
-Professional with 10+ years of experience specializing in Zero Trust environments, NAC implementation, and security automation within enterprise and government-contracting sectors.
+## 🛡️ Professional Profile
+**Senior Network Security Engineer** with over a decade of experience securing mission-critical infrastructure in zero-trust and DoD environments. Currently pursuing an **M.S. in Information Security at Georgia Institute of Technology**, specializing in bridging the gap between legacy network architecture and modern security automation.
+
+* **Engineering Lead:** Oversight of NAC (Cisco ISE) and perimeter security (Palo Alto) across 40+ sites and 750+ network nodes.
+* **Security Automation:** Leveraging Python and Ansible to streamline configuration management and threat detection.
+* **Research Focus:** Exploring the intersection of AI-driven security assistance and certification pedagogy.
 
 ---
 
